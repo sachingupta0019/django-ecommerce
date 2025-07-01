@@ -1,2 +1,2 @@
-# django5
+# Django Ecommerce Project
 Django Project Repository
